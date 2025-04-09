@@ -1,0 +1,2 @@
+# Random-Signal-Experiment-Analog-Low---Pass-Filter
+This experiment is about analog low - pass filters. Its goals are to understand principles, master designs, and learn instrument usage. It explains filter concepts, uses MATLAB for 4kHz filter simulation, and details impulse response measurement. A 4kHz filter is designed, simulated on a breadboard, and tested with signal sources and oscilloscopes.
